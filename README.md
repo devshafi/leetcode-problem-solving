@@ -1,3 +1,3 @@
-# leetcode-problem-solving
+# Leetcode-problem-solving
 
-I will walk you through how to do problem solving using an ORCID library.
+I will add all the solved problems from leetcode in this repository
