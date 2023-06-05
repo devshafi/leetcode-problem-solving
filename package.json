@@ -4,6 +4,7 @@
   "description": "I will add all the solved problems from leetcode in this repository",
   "main": "index.js",
   "scripts": {
+    "start":"nodemon Easy/JavaScript/straightLine.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
